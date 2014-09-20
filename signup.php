@@ -19,26 +19,12 @@
     <![endif]-->
   </head>
 
-  <body id="home">
+  <body id="signup">
 
     <section class="container">
-     <?php include '_/components/php/header.php'; ?>
-    <?php include '_/components/php/photo_carousel.php'; ?>
 
-      <div class="content row">
-        <section class="main col col-lg-8">
-         <?php include '_/components/php/header.php'; ?>
-         <?php include '_/components/php/photo_carousel.php'; ?>
-
-        </section><!-- main -->
-        <section class="sidebar col col-lg-4">
-         <?php include '_/components/php/header.php'; ?>
-         <?php include '_/components/php/photo_carousel.php'; ?>
-
-        </section><!-- sidebar -->
-        </div><!-- content -->
-    </section><!-- container -->
-    <?php include '_/components/php/footer.php'; ?>
+    
+    </section><!--container-->
 
    
     <script src="_/js/bootstrap.js"></script>
