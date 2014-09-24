@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title> Adele Harper --About </title>
+    <title> Adele Harper --Personal Training</title>
 
     <link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,700italic,700,400italic,300italic,300,900' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
@@ -17,7 +17,7 @@
     <![endif]-->
      
 
-  <body id="about">
+  <body id="personal training">
 
      <section class="container">
        <?php include '_/components/php/header.php'; ?>
