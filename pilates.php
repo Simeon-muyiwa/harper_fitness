@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title> Adele Harper --Home </title>
+    <title> Adele Harper --Pilates </title>
 
     <link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,700italic,700,400italic,300italic,300,900' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
@@ -19,7 +19,7 @@
     </head>
      
 
-  <body id="home">
+  <body id="pilates">
 
      <section class="container clearfix">
        <?php include '_/components/php/header.php'; ?>

@@ -1,5 +1,4 @@
 
-
  <div id="myCarousel" class="carousel hidden-sm slide">
 
 	<ol class="carousel-indicators">
@@ -11,11 +10,11 @@
 	</ol><!-- carousel-indicators -->
 
 	<section class="carousel-inner">
-		<div class="active item"><img src="images/Carousel 3/Ember.png"></div>
-		<div class="item"><img src="images/Carousel 3/Ember 2.png"></div>
-		<div class="item"><img src="images/Carousel 3/Ember 3.png"></div>
-		<div class="item"><img src="images/Carousel 3/Ember 4.png"></div>
-		<div class="item"><img src="images/Carousel 3/Ember 5.png"></div>
+		<div class="active item"><img src="images/Carousel 3/Ember 18 a.png"></div>
+		<div class="item"><img src="images/Carousel 3/Ember 2a.png"></div>
+		<div class="item"><img src="images/Carousel 3/Ember 3a.png"></div>
+		<div class="item"><img src="images/Carousel 3/Ember 4a.png"></div>
+		<div class="item"><img src="images/Carousel 3/Ember 17 a.png"></div>
 	</section><!-- carousel-inner -->
 
 	<a href="#myCarousel" class="left carousel-control" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>

@@ -1,4 +1,4 @@
- $(function(){
+$(function () {
 
 	// highlight the current nav
 
@@ -8,4 +8,15 @@
 	$("#personaltraining a:contains('Personal Training')").parent().addClass('active');
 	$("#yoga a:contains('Yoga')").parent().addClass('active');
 	$("#testimonials a:contains('Testimonials')").parent().addClass('active');
-}); // jQuery is loaded
+
+
+ //Testimonials Slider 2
+	$('.testimonials-slider-2 .flexslider').flexslider({
+	 
+	    controlNav: "thumbnails",
+	    directionNav: false,
+	    animation: "slide",
+	});
+
+
+  });// jQuery is loaded

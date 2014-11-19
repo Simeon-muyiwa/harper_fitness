@@ -15,8 +15,8 @@
 		},
 	"\/_\/components\/js\/_myscript.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/_\/components\/js\/_myscript.js",
 		"outputAbbreviatedPath": "\/_\/js\/myscript.js",
 		"outputPathIsOutsideProject": 0,
@@ -101,28 +101,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_\/components\/js\/min\/html5shiv.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/components\/js\/min\/html5shiv.js",
-		"outputAbbreviatedPath": "\/_\/components\/js\/min\/min\/html5shiv-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_\/components\/js\/min\/respond.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/components\/js\/min\/respond.js",
-		"outputAbbreviatedPath": "\/_\/components\/js\/min\/min\/respond-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_\/components\/js\/modal.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -195,8 +173,8 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/_\/components\/less\/_mystyles.less",
 		"outputAbbreviatedPath": "\/_\/css\/mystyles.css",
 		"outputPathIsOutsideProject": 0,
@@ -1609,6 +1587,15 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_\/components\/php\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/components\/php\/header.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1636,11 +1623,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_\/components\/php\/pt_jumbotron.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/pt_jumbotron.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/testimonial_sliders.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/testimonial_sliders.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/css\/bootstrap.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/css\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/css\/flexstyle.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/css\/flexstyle.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1665,12 +1679,45 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_\/js\/flexslider.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/js\/flexslider.min.js",
+		"outputAbbreviatedPath": "\/_\/js\/min\/flexslider.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_\/js\/html5shiv.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/js\/html5shiv.js",
+		"outputAbbreviatedPath": "\/_\/js\/min\/html5shiv-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_\/js\/myscript.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/_\/js\/myscript.js",
 		"outputAbbreviatedPath": "\/_\/js\/min\/myscript-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_\/js\/respond.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/js\/respond.js",
+		"outputAbbreviatedPath": "\/_\/js\/min\/respond-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1716,6 +1763,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/Carousel 3\/Ember 13.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102638,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 13.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 13.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Carousel 3\/Ember 17 a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 324124,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 17 a.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 17 a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Carousel 3\/Ember 18 a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 695128,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 18 a.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 18 a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/Carousel 3\/Ember 2.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1723,6 +1803,17 @@
 		"initialSize": 699531,
 		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 2.png",
 		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Carousel 3\/Ember 2a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 484381,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 2a.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 2a.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1738,6 +1829,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/Carousel 3\/Ember 3a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 573189,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 3a.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 3a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/Carousel 3\/Ember 4.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1745,6 +1847,17 @@
 		"initialSize": 959332,
 		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 4.png",
 		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Carousel 3\/Ember 4a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 620937,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 4a.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 4a.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1804,6 +1917,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/Carousel 3\/Ember pilates.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28514,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember pilates.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember pilates.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Carousel 3\/Ember pt.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47147,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember pt.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember pt.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Carousel 3\/Ember yoga.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18278,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember yoga.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember yoga.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/Carousel 3\/Ember.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1833,6 +1979,17 @@
 		"initialSize": 582419,
 		"inputAbbreviatedPath": "\/images\/Carousel 3\/IMG_9191.png",
 		"outputAbbreviatedPath": "\/images\/Carousel 3\/IMG_9191.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Carousel 3\/jumbotron.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263911,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/jumbotron.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/jumbotron.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

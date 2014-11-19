@@ -11,21 +11,20 @@
     <link href="_/css/mystyles.css" rel="stylesheet">
 
 
-    <!--[if lt IE 9]>
+  <!--[if lt IE 9]>
       <script src="_/js/min/html5shiv.js"></script>
       <script src="_/js/min/respond.js"></script>
     <![endif]-->
      
-  </head>
 
   <body id="testimonials">
 
      <section class="container">
-
+       <?php include '_/components/php/header.php'; ?>
+         <?php include '_/components/php/photo_carousel.php'; ?>
       <div class="content row">
         <section class="main col col-lg-8">
-         <?php include '_/components/php/header.php'; ?>
-         <?php include '_/components/php/photo_carousel.php'; ?>
+         
 
         </section><!-- main -->
         <section class="sidebar col col-lg-4">
@@ -34,6 +33,7 @@
         </div><!-- content -->
     </section><!-- container -->
     <?php include '_/components/php/footer.php'; ?>
+
    
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>

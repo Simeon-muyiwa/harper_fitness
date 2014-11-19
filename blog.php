@@ -21,7 +21,7 @@
 
      <section class="container">
        <?php include '_/components/php/header.php'; ?>
-         <?php include '_/components/php/photo_carousel.php'; ?>
+        
       <div class="content row">
         <section class="main col col-lg-8">
          
