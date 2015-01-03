@@ -21,25 +21,17 @@
 
   <body id="pilates">
 
-     <section class="container clearfix">
-       <?php include '_/components/php/header.php'; ?>
-         <?php include '_/components/php/photo_carousel.php'; ?>
-      <div class="content row">
+     <section class="container">
+       <?php include "_/components/php/header.php"; ?>
+        <?php include "_/components/php/pilates_jumbotron.php"; ?>
+         <?php include "_/components/php/pilates_maincontent.php"; ?>
 
-        
-        <section class="main col col-lg-12">
-         <?php include '_/components/php/introduction.php'; ?>
-         <?php include '_/components/php/testimonial_sliders.php'; ?>
-        </section><!-- main -->
-        
-        </div><!-- content -->
     </section><!-- container -->
-    <?php include '_/components/php/footer.php'; ?>
+    <?php include "_/components/php/contact.php"; ?>
+    
 
    
     <script src="_/js/bootstrap.js"></script>
-    <script src="_/js/flexslider.min.js"></script>
     <script src="_/js/myscript.js"></script>
-    
   </body>
 </html>

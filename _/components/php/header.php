@@ -8,21 +8,25 @@
           <span class="icon-bar"></span>
     </button>
     
-    <a href="index.php"><img src=" images/Carousel 3/Ember 19a.png" alt="Logo for the Site"></a>
     
- </div><!-- branding -->
-           
- <div class="collapse navbar-collapse navbar-ex1-collapse">
-    <ul class="nav navbar-nav">
+       <a href="index.php"><img class="img-responsive" src=" images/Carousel 3/Ember 19a.png" alt="Logo for the Site"></a>
+        
+    
+    </div><!-- branding -->
+     <div id="header-menu">   
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+         <ul class="nav navbar-nav ">
             
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="personaltraining.php">Personal Training</a></li>
-                <li><a href="testimonials.php">Pilates</a></li>
-                <li><a href="Yoga.php">Yoga</a></li>
-                 <li><a href="Yoga.php">Testimonials</a></li>
-                <li><a href="blog.php">Blog</a></li>
-      </ul>   
+                <li><a href="pilates.php">Pilates</a></li>
+                <li><a href="yoga.php">Yoga</a></li>
+                
+                
+         </ul>   
+       
+     </div>
         
     </div><!-- column -->
  </div><!-- content -->

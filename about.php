@@ -21,28 +21,48 @@
 
      <section class="container">
        <?php include '_/components/php/header.php'; ?>
+     <div class="jumbotron">
+       <img src="images/Carousel 3/about.png" class= "img-responsive pull-right">
         
-      <div class="content row">
-        <section class="main col col-lg-12">
+      <div class=" well about_maincontent">
 
-        <p>Coming from a dance background I have always led an active lifestyle. For fun I run 10ks, marathons, ski, snowboard, swim and play sport.
-        iding to and from work on my bike I am a strong believer that it is possible to fit exercise into your lifestyle. Having been on ski trips, 
-        yoga retreats, surfing and hiking holidays I want my clients to feel the benefits of healthy living without it being a chore!</p>
-        <p> Whether your goal is weight loss, wedding preparation, competing for an event or simply wanting to feel better about yourself 
-        I will be able to help you. From an initial consultation I can offer a package for you.  Incorporating Yoga, Pilates, Kettlebells, TRX, Cardiovascular, Circuit and Interval Training. 
-        Training is supported with nutritional advice in order to get the best results.</p>
-        <p>I promise to push you to your boundaries whilst making the sessions fun.  With a holistic touch you will look and feel great at the end of a workout. Allow me to draw on my diverse range of fitness knowledge to help you to achieve the goals that you are looking for. 
-        I can bring expertise and an unrivalled variety of exercises to your workout.</p>
+        <p>As her testimonials show (see Home Page) Adele's unique approach to health and well-being is much appreciated by her clients.
+           Having danced since the age of seven, Adele left her home in Bath to train as a professional dancer in London, 
+           obtaining a degree in Dance Theatre from the London Studio Centre, University of the Arts London.</p>
 
+        <p>Keen to sustain her own physical condition, she recognised that her forte lay in helping others to maintain theirs. 
+          She gradually widened her experience and combined her love of different approaches to fitness with empathy for her 
+          growing clientele. Having secured her first post in the fitness industry with Nuffield Health, she rapidly expanded 
+          her repertoire, gaining qualifications in Fitness (Reps Level 3) as well as teaching 
+          qualifications in Spin (indoor cycling), Body Pump (weights to music), boxercise and kettle bells.</p>
 
+        <p>Keen to adopt a more holistic approach and searching for new ways to develop her practice, 
+           Adele has developed and augmented her teaching to include Yoga (Yoga Alliance Registered Teacher) 
+           and Stott Pilates (Registered Teacher).</p>
 
-
-
-        </section><!-- main -->
-       
+        <p>  Over the last six years Adele has combined working in a corporate fitness environment with training personal 
+             clients, also honouring various teaching commitments with larger groups.On a personal level Adele aims to acquaint 
+            herself with her clients' specific needs and aspirations,
+             devising personal, attainable, and sustainable targets. This includes not only health and fitness guidelines 
+             but also advice on nutrition and weight management. This approach has been proven to lead to lasting 
+             and beneficial changes in both lifestyle and wellbeing. </p>
+      
+         </div><!-- main -->
+       <h2> Qualifications<h2>
+       <ul class="qualification">
+         <li> BA Hons Degree Dance Theatre</li>
+          <li>REPS Level 3 Personal Trainer </li>
+         <li>STOTT Pilates instructor </li>
+          <li> 200 Hour yoga alliance registered Ashtanga Vinyasa</li>
+           <li>Pre and Post natal Pilates </li>
+          <li>Tomahawk Indoor Cycling Instructor (Spin) </li>
+          <li>Les Mills BodyPump instructor </li>
+          <li>Boxercise instructor </li>
+         <li>Kettle bell instructor </li>
+        </ul>
         </div><!-- content -->
     </section><!-- container -->
-    <?php include '_/components/php/footer.php'; ?>
+   
 
    
     <script src="_/js/bootstrap.js"></script>
