@@ -22,7 +22,7 @@
                 <li><a href="personaltraining.php">Personal Training</a></li>
                 <li><a href="pilates.php">Pilates</a></li>
                 <li><a href="yoga.php">Yoga</a></li>
-                
+                 
                 
          </ul>   
        

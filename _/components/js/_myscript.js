@@ -8,6 +8,20 @@ $(function () {
 	$("#pilates a:contains('Pilates')").parent().addClass('active');
 	$("#yoga a:contains('Yoga')").parent().addClass('active');
 
+
+	var $testimonials = ('<li><a href="testimonials.php">Testimonials</a></li>');
+	$("#home ul").append($testimonials);
+
+	$("li > a:contains(Testimonials)").click(function(e) {
+		e.preventDefault();
+		$("#home").scrollTop(600);
+	});
+
+
+
+
+    
+
 	//Testimonials Slider 2
 	$('.testimonials-slider-2 .flexslider').flexslider({
 	 
@@ -16,7 +30,6 @@ $(function () {
 	    animation: "slide",
 	});
 
-	
 
   });// jQuery is loaded
 

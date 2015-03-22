@@ -21,7 +21,7 @@
 
      <section class="container">
        <?php include '_/components/php/header.php'; ?>
-         <?php include '_/components/php/photo_carousel.php'; ?>
+         
       <div class="content row">
         <section class="main col col-lg-8">
          
@@ -32,8 +32,7 @@
         </section><!-- sidebar -->
         </div><!-- content -->
     </section><!-- container -->
-    <?php include '_/components/php/footer.php'; ?>
-
+   
    
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>

@@ -3,7 +3,7 @@
  <div class="grid-row bg-lightgray">
         <div class="content-inner">
 
-            <h3 class="text-center light">Customers &amp; Testimonials</h3>
+            <h3 class="text-center light" id ="testimo">Customers &amp; Testimonials</h3>
 
             <div class="testimonials-slider-2">
                 <div class="flexslider">

@@ -1587,11 +1587,11 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/_\/components\/php\/footer.php": {
+	"\/_\/components\/php\/contact.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/components\/php\/footer.php",
+		"inputAbbreviatedPath": "\/_\/components\/php\/contact.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1601,6 +1601,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/php\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/index-intro.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/index-intro.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1655,6 +1664,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/php\/testimonial_sliders.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/yoga_jumbotron.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/yoga_jumbotron.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/yoga_maincontent.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/yoga_maincontent.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1750,22 +1777,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/blog.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/blog.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/images\/Carousel 3\/Ember 10.png": {
+	"\/images\/Carousel 3\/about.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 985586,
-		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 10.png",
-		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 10.png",
+		"initialSize": 132216,
+		"inputAbbreviatedPath": "\/images\/Carousel 3\/about.png",
+		"outputAbbreviatedPath": "\/images\/Carousel 3\/about.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1803,17 +1821,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/Carousel 3\/Ember 2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 699531,
-		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 2.png",
-		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/Carousel 3\/Ember 2a.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1825,17 +1832,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/Carousel 3\/Ember 3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 838168,
-		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 3.png",
-		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/Carousel 3\/Ember 3a.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1843,17 +1839,6 @@
 		"initialSize": 573189,
 		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 3a.png",
 		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 3a.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Carousel 3\/Ember 4.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 959332,
-		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 4.png",
-		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1876,50 +1861,6 @@
 		"initialSize": 535560,
 		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 5.png",
 		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Carousel 3\/Ember 6.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 344609,
-		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 6.png",
-		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 6.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Carousel 3\/Ember 7.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.09945e+06,
-		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 7.png",
-		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 7.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Carousel 3\/Ember 8.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 691142,
-		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 8.png",
-		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 8.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Carousel 3\/Ember 9.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.87042e+06,
-		"inputAbbreviatedPath": "\/images\/Carousel 3\/Ember 9.png",
-		"outputAbbreviatedPath": "\/images\/Carousel 3\/Ember 9.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2057,6 +1998,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pilates.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/qualification.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/qualification.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
